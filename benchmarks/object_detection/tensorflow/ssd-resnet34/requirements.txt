@@ -10,3 +10,4 @@ horovod==0.19.1
 tensorflow-addons==0.8.1
 opencv-python
 numpy==1.17.4
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
